@@ -1,0 +1,168 @@
+{
+  "appId": "25AI_TIMETABLE_APP",
+  "version": "1.0.0",
+  "semester": "3rd Semester",
+  "startingFrom": "14-09-2026",
+  "subjects": [
+    "Artificial Intelligence (AI)",
+    "Data Structures (DS)",
+    "Software Engineering (SWE)",
+    "Database Systems (DBS)",
+    "Statistics and Probability (S&P)"
+  ],
+  "labs": [
+    "CSE Lab"
+  ],
+  "teachers": {
+    "Artificial Intelligence (AI)": {
+      "theory": "Dr. Wazir Ali Jamro",
+      "lab": "Engr. Kashif Bhutto"
+    },
+    "Data Structures (DS)": {
+      "theory": "Prof. Dr. Adnan Ahmed",
+      "lab": "Ms. Tooba Ali"
+    },
+    "Software Engineering (SWE)": {
+      "theory": "Dr. Muniba Memon",
+      "lab": ""
+    },
+    "Database Systems (DBS)": {
+      "theory": "Prof. Dr. Asghar Ali",
+      "lab": "To be assigned"
+    },
+    "Statistics and Probability (S&P)": {
+      "theory": "Dr. Abbas Ali Ghoto",
+      "lab": ""
+    }
+  },
+  "timetable": {
+    "Monday": [
+      {
+        "start": "08:30",
+        "end": "10:30",
+        "type": "Subject",
+        "item": "Artificial Intelligence (AI)",
+        "teacher": "Dr. Wazir Ali Jamro",
+        "room": "AI Room 03",
+        "classType": "TH"
+      },
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "type": "Subject",
+        "item": "Data Structures (DS)",
+        "teacher": "Prof. Dr. Adnan Ahmed",
+        "room": "AI Room 03",
+        "classType": "TH"
+      },
+      {
+        "start": "13:00",
+        "end": "15:00",
+        "type": "Lab",
+        "item": "CSE Lab",
+        "teacher": "Ms. Tooba Ali",
+        "room": "CSE Lab",
+        "classType": "PR"
+      }
+    ],
+    "Tuesday": [
+      {
+        "start": "08:30",
+        "end": "10:30",
+        "type": "Subject",
+        "item": "Data Structures (DS)",
+        "teacher": "Prof. Dr. Adnan Ahmed",
+        "room": "AI Room 03",
+        "classType": "TH"
+      },
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "type": "Subject",
+        "item": "Statistics and Probability (S&P)",
+        "teacher": "Dr. Abbas Ali Ghoto",
+        "room": "AI Room 03",
+        "classType": "TH"
+      },
+      {
+        "start": "12:00",
+        "end": "13:00",
+        "type": "Lab",
+        "item": "CSE Lab",
+        "teacher": "To be assigned",
+        "room": "CSE Lab",
+        "classType": "PR"
+      }
+    ],
+    "Wednesday": [
+      {
+        "start": "08:30",
+        "end": "10:30",
+        "type": "Subject",
+        "item": "Database Systems (DBS)",
+        "teacher": "Prof. Dr. Asghar Ali",
+        "room": "AI Room 03",
+        "classType": "TH"
+      },
+      {
+        "start": "11:00",
+        "end": "14:00",
+        "type": "Lab",
+        "item": "CSE Lab",
+        "teacher": "Engr. Kashif Bhutto",
+        "room": "CSE Lab",
+        "classType": "PR"
+      }
+    ],
+    "Thursday": [
+      {
+        "start": "08:30",
+        "end": "10:30",
+        "type": "Subject",
+        "item": "Software Engineering (SWE)",
+        "teacher": "Dr. Muniba Memon",
+        "room": "AI Room 03",
+        "classType": "TH"
+      },
+      {
+        "start": "11:00",
+        "end": "12:00",
+        "type": "Subject",
+        "item": "Statistics and Probability (S&P)",
+        "teacher": "Dr. Abbas Ali Ghoto",
+        "room": "AI Room 03",
+        "classType": "TH"
+      }
+    ],
+    "Friday": [
+      {
+        "start": "08:30",
+        "end": "09:30",
+        "type": "Subject",
+        "item": "Artificial Intelligence (AI)",
+        "teacher": "Dr. Wazir Ali Jamro",
+        "room": "AI Room 03",
+        "classType": "TH"
+      },
+      {
+        "start": "09:30",
+        "end": "10:30",
+        "type": "Subject",
+        "item": "Database Systems (DBS)",
+        "teacher": "Prof. Dr. Asghar Ali",
+        "room": "AI Room 03",
+        "classType": "TH"
+      },
+      {
+        "start": "10:30",
+        "end": "11:30",
+        "type": "Subject",
+        "item": "Software Engineering (SWE)",
+        "teacher": "Dr. Muniba Memon",
+        "room": "AI Room 03",
+        "classType": "TH"
+      }
+    ],
+    "Saturday": []
+  }
+}
